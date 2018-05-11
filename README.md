@@ -15,7 +15,10 @@ An offline voicemail service that answers incoming call automatically if not ans
 
 ```diff
 + Answer Call
-+ Greetings mp3
++ Greetings mp3[Customized][Thanks to Julie]
+- Play mp3 through speaker [Untested][Testing is not free :p]
 + Record Call
-- Play mp3 silently(Speaker ATM)
+- Notify user when screen unlocked
+- ~~Play mp3 silently(Speaker ATM)~~ Skipped[Maybe not possible]
 ```
+Above steps are working **without Root**  which is great!:wink:
