@@ -16,6 +16,6 @@ An offline voicemail service that answers incoming call automatically if not ans
 ```diff
 + Answer Call
 + Greetings mp3
++ Record Call
 - Play mp3 silently(Speaker ATM)
-- Record Call
 ```
