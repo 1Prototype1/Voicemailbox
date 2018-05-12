@@ -15,8 +15,8 @@ An offline voicemail service that answers incoming call automatically if not ans
 ```diff
 + Answer Call
 + Greetings mp3[Customized][Thanks to Julie]
-- Play mp3 through speaker [Untested][Testing is not free lol]
-- Mute microphone [Untested]
++ Play mp3 through speaker
++ Mute microphone
 + Record Call
 - Notify user when screen unlocked
 - Play mp3 silently(Speaker ATM)~~Skipped[Maybe not possible]
