@@ -19,6 +19,7 @@ An offline voicemail service that answers incoming call automatically if not ans
 + Mute microphone
 + Record Call
 - Notify user when screen unlocked
+- Create a standalone app or installer
 ```
 Above steps are working **without Root**  which is great!:wink:<br>
 **Testing Device:**
