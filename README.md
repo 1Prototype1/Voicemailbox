@@ -19,7 +19,6 @@ An offline voicemail service that answers incoming call automatically if not ans
 + Mute microphone
 + Record Call
 - Notify user when screen unlocked
-- Play mp3 silently(Speaker ATM)~~Skipped[Maybe not possible]
 ```
 Above steps are working **without Root**  which is great!:wink:<br>
 **Testing Device:**
