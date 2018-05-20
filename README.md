@@ -25,4 +25,4 @@ Above steps are working **without Root**  which is great!:wink:<br>
 **Testing Device:**
 Redmi 4x Android Oreo 8.1 [SDK 27]
 <br><br><br>
-# Why to pay when you can get it for free!:smiling_imp:
+## Why to pay when you can get it for free!:smiling_imp:
