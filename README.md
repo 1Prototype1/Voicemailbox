@@ -1,15 +1,15 @@
 # Voicemailbox
 An offline voicemail service that answers incoming call automatically if not answered by the user, tells caller to leave a message,records it and then notifies the user when the screen is unlocked.
 
-<b>Basic Idea:</b><br>
+**Basic Idea:**  
 - Answer call after timeout.
 - Play recorded message.
 - Record voicecall.
- <br> 
-<b>Approach:</b><br>
+    
+**Approach:** 
   I am first going to try this on Tasker and then try to create a standalone app.
-  <br><br><br>
-  <b>Progress:</b><br>
+            
+**Progress:**  
 
 
 ```diff
